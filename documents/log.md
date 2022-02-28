@@ -1,4 +1,4 @@
-## 13/36/2088
+## 13/36/2077
 
 This week our team's target goals were to write a fake development log entry and reverse entropy. While we were successful in writing the first one by making a reasonable example, reversing entropy proved to be harder then expected and will probably take at least another week. 
 
@@ -8,7 +8,7 @@ We made some small progress in reversing entropy by sticking some water in the f
 
 Our goals for next week are (1) to write another development log entry and (2) to push some rocks down a hill as a method of reducing entropy. 
 
-## 13/43/2088
+## 13/43/2077
 
 Based on week 1's feedback, this week our team's goals were to write a better, more structured development log entry, identify a target dataset, and build a small test set for our reserving entropy function.
 
