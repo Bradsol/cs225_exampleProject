@@ -1,6 +1,6 @@
 # Warning
 
-This is a satirical proposal. You should only use it asn example of how to structure your own proposal. Do not copy this proposal.
+This is a satirical proposal. You should only use it as an example of how to structure your own proposal. Do not copy this proposal.
 
 ## Leading Question 
 
